@@ -1,5 +1,10 @@
 # Project Charter
 
+Links to project pages:
+* https://github.com/voxpupuli/puppet-puppetwebhook
+* https://github.com/voxpupuli/puppet_webhook
+
+
 ## Mission
 Create easy ways for end users to install, setup and utilize Vox Pupuli's Webhook API server for Puppet within their environment.
 
