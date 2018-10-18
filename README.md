@@ -23,7 +23,7 @@ Puppet has made great strides in automating workflows, infrastructure, deploymen
 ## Success Criteria
 * Version 1.0.0 of puppetwebhook module must be released on the Forge under the puppet namespace.
 * Deb and RPM packages built for the puppet_webhook API server itself.
-* Public APT and YUM repositories for installing the API server.
+* [Optional] Public APT and YUM repositories for installing the API server.
 * [Optional] Arch packages
 
 ## Constraints
